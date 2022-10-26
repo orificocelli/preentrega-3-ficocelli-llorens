@@ -55,3 +55,12 @@ h6 {
     margin-right: 33%;
     margin-left: 33%;
    }
+   .link-propio { 
+    color: white;
+   }
+   .link-propio:hover { 
+    color:rgb(41, 21, 7)
+   }
+   .nav-propia { 
+    background-color: rgba(97, 45, 10, 0.89);
+   }
