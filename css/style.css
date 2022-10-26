@@ -60,11 +60,9 @@ h6 {
     background-color: rgba(97, 45, 10, 0.89);
    }
    header {
-    margin-top: 1%;
-    margin-bottom: 1%;
-    margin-left: 30%;
+    margin-left: 35%;
     }
-    header {
-        width: 25%;
-        height: 25%;
+    header img {
+        width: 50%;
+        height: 50%;
     }
