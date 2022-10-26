@@ -1,9 +1,7 @@
 .fondo {
     background-image: url(../img/fondo.jpg);
  }
- .barra { 
-    background-color: rgba(97, 45, 10, 0.89);  
-}
+
 p {
     color: white;
     font-size: 20px;
