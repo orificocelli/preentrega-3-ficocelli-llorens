@@ -66,3 +66,8 @@ h6 {
         width: 50%;
         height: 50%;
     }
+    .img_tam img {
+        width: 30%;
+        height: 30%;
+        margin-bottom: 5%;
+    }
