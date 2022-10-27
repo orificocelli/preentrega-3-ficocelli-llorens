@@ -1,32 +1,34 @@
 .fondo {
     background-image: url(../img/fondo.jpg);
- }
+    }
 
 p {
     color: white;
-    font-size: 20px;
+    font-size: 25px;
     text-align: center;
- }
+    font-family: zen kaku gothic new;
+     }
  h1 { 
     color: white;
     font-size: 100px;
     text-align: center;
- }
+    font-family: zen kaku gothic new;
+    font-weight: 400;
+    }
  h2 { 
-    color: white;
-    font-size: 150%;
-    text-align: center;
-    } 
-h3 {
-    color: white;
+    color: #ffffff;
     font-size: 60px;
-    text-align: center
-}
+    text-align: center;
+    font-family: zen kaku gothic new;
+    font-weight: 500;
+    } 
+
 h6 {
     color: white;
     font-size: 30px;
     text-align: left;
-}
+    font-family: zen kaku gothic new;
+    }
     section nav ul li a{ 
         text-decoration: none;
         color: white;
@@ -52,13 +54,13 @@ h6 {
    
    .link-propio { 
     color: white;
-   }
+    }
    .link-propio:hover { 
     color:rgb(41, 21, 7)
-   }
+    }
    .nav-propia { 
     background-color: rgba(97, 45, 10, 0.89);
-   }
+    }
    header {
     margin-left: 35%;
     }
@@ -72,13 +74,6 @@ h6 {
         margin-bottom: 5%;
     }
 
-    h4 {
-        color: black;
-        margin: auto;
-    }
-    .p_img {
-        color: black;
-    }
     .carousel-mio {
         margin: auto;
         margin-bottom: 5%;
