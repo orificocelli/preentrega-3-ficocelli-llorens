@@ -47,15 +47,15 @@ h6 {
 
 header {
     margin-left: 35%;
-    }
+}
     .img-nav {
-        width: 15%;
-        height: 15%;
-    }
-    header img {
+        width: 90px;
+        height: 90px;
+   }
+header img {
         width: 50%;
         height: 50%;
-    }
+}
 footer {
         background-color: rgba(97, 45, 10, 0.89); 
         text-align: justify;
@@ -71,4 +71,10 @@ footer {
 }   }   }   }   }   }
 .direction p {
         text-align: right;
+}
+
+.img_tam img {
+    width: 30%;
+    height: 30%;
+    margin-bottom: 15px;
 }

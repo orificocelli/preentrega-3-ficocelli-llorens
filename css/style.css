@@ -56,8 +56,8 @@ header {
 }
 
 .img-nav {
-  width: 15%;
-  height: 15%;
+  width: 90px;
+  height: 90px;
 }
 
 header img {
@@ -80,6 +80,12 @@ footer div nav ul li a {
 
 .direction p {
   text-align: right;
+}
+
+.img_tam img {
+  width: 30%;
+  height: 30%;
+  margin-bottom: 15px;
 }
 
 /*# sourceMappingURL=style.css.map */
