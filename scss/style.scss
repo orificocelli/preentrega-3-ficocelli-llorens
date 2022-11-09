@@ -1,60 +1,43 @@
+@import './base/variables';
+@import './componentes/header';
+
+
+
 .fondo {
     background-image: url(../img/fondo.jpg)
 }
 p {
     color: white;
-    font-size: 25px;
+    font-size: $small;
     text-align: center;
     font-family: zen kaku gothic new;
 }
-h1 { 
-    color: white;
-    font-size: 100px;
-    text-align: center;
-    font-family: zen kaku gothic new;
-    font-weight: 400;
-}
- h2 { 
-    color: #ffffff;
-    font-size: 60px;
-    text-align: center;
-    font-family: zen kaku gothic new;
-    font-weight: 500;
-} 
-
 h6 {
     color: white;
-    font-size: 30px;
+    font-size: $medium;
     text-align: left;
-    font-family: zen kaku gothic new;
+    font-family: $titulos;
 } 
-.nav-propia {
-    text-decoration: none;
-    color: white;
-    list-style-type: none;
-    background-color: rgba(97, 45, 10, 0.89);
+
+ h2 { 
+    color: #ffffff;
+    font-size: $large;
+    text-align: center;
+    font-family: $titulos;
+    font-weight: 500;
 }
-.link-propio { 
+ h1 { 
     color: white;
-    &:hover {
-        color:rgb(41, 21, 7)
-    }
- }
+    font-size: $xlarge;
+    text-align: center;
+    font-family: $titulos;
+    font-weight: 400;
+}
+
+
  .carousel-mio {
     margin: auto;
     margin-bottom: 5%;
-}
-
-header {
-    margin-left: 35%;
-}
-    .img-nav {
-        width: 90px;
-        height: 90px;
-   }
-header img {
-        width: 50%;
-        height: 50%;
 }
 footer {
         background-color: rgba(97, 45, 10, 0.89); 
@@ -76,5 +59,5 @@ footer {
 .img_tam img {
     width: 30%;
     height: 30%;
-    margin-bottom: 15px;
+    margin-bottom: 1px;
 }

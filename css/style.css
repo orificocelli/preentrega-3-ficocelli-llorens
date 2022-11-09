@@ -1,37 +1,3 @@
-.fondo {
-  background-image: url(../img/fondo.jpg);
-}
-
-p {
-  color: white;
-  font-size: 25px;
-  text-align: center;
-  font-family: zen kaku gothic new;
-}
-
-h1 {
-  color: white;
-  font-size: 100px;
-  text-align: center;
-  font-family: zen kaku gothic new;
-  font-weight: 400;
-}
-
-h2 {
-  color: #ffffff;
-  font-size: 60px;
-  text-align: center;
-  font-family: zen kaku gothic new;
-  font-weight: 500;
-}
-
-h6 {
-  color: white;
-  font-size: 30px;
-  text-align: left;
-  font-family: zen kaku gothic new;
-}
-
 .nav-propia {
   text-decoration: none;
   color: white;
@@ -46,13 +12,13 @@ h6 {
   color: rgb(41, 21, 7);
 }
 
-.carousel-mio {
-  margin: auto;
-  margin-bottom: 5%;
-}
-
 header {
   margin-left: 35%;
+}
+
+header img {
+  width: 50%;
+  height: 50%;
 }
 
 .img-nav {
@@ -60,9 +26,43 @@ header {
   height: 90px;
 }
 
-header img {
-  width: 50%;
-  height: 50%;
+.fondo {
+  background-image: url(../img/fondo.jpg);
+}
+
+p {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  font-family: zen kaku gothic new;
+}
+
+h6 {
+  color: white;
+  font-size: 35px;
+  text-align: left;
+  font-family: Nanum Myeongjo;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 60px;
+  text-align: center;
+  font-family: Nanum Myeongjo;
+  font-weight: 500;
+}
+
+h1 {
+  color: white;
+  font-size: 90px;
+  text-align: center;
+  font-family: Nanum Myeongjo;
+  font-weight: 400;
+}
+
+.carousel-mio {
+  margin: auto;
+  margin-bottom: 5%;
 }
 
 footer {
@@ -85,7 +85,7 @@ footer div nav ul li a {
 .img_tam img {
   width: 30%;
   height: 30%;
-  margin-bottom: 15px;
+  margin-bottom: 1px;
 }
 
 /*# sourceMappingURL=style.css.map */
