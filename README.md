@@ -3,3 +3,4 @@
 #Agregue los meta de description y de keyword.
 #Faltan agregar los alt de las imagenes y modificar un poco el diseño (lo voy a hacer para la entrega final)
 #Falta el formulario de la parte de contacto
+#No pude hacer el git ignore
