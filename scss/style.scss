@@ -1,8 +1,5 @@
 @import './base/variables';
 @import './componentes/header';
-
-
-
 .fondo {
     background-image: url(../img/fondo.jpg)
 }
@@ -18,7 +15,6 @@ h6 {
     text-align: left;
     font-family: $titulos;
 } 
-
  h2 { 
     color: #ffffff;
     font-size: $large;
@@ -33,8 +29,6 @@ h6 {
     font-family: $titulos;
     font-weight: 400;
 }
-
-
  .carousel-mio {
     margin: auto;
     margin-bottom: 5%;
